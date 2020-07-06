@@ -8,31 +8,13 @@
 .carousel-item{
     padding: 20px 30px;
 }
-.price{
-    color: orange;
-}
+
 .buy-now-button{
     background-image: linear-gradient(90deg, dodgerblue, Fuchsia);
     color: white;
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
-}
-.cat1, .cat2, .cat3{
-    border-radius: 10px;
-    padding: 10px 20px;
-}
-.cat1{
-   background-color: orange;
-   
-}
-.cat2{
-    background-color: blue;
-    
-}
-.cat3{
-    background-color: orchid;
-    
 }
 .categories h1{
     color: white;
