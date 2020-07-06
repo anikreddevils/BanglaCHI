@@ -1,2 +1,1 @@
-# panda-commerce
 # BanglaCHI
